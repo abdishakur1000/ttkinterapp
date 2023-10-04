@@ -6,7 +6,7 @@ authors = ["Replit user <<>>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-Pillow = "^9.5.0"
+Pillow = "^10.0.1"
 opencv-python = "^4.7.0"
 
 [tool.poetry.dev-dependencies]
